@@ -12,7 +12,7 @@
       <b>Retrieve + Align Sequences</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/963c1dbb-7b45-4c44-a2f2-898cda6ee618" width="750" />
+      <img src="https://github.com/user-attachments/assets/434e932e-1a8c-4775-b667-a54fdc7e922d" width="750" />
       <br />
       <b>Align Only (Own File)</b>
     </td>
