@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f7f9a00f-c9c0-4983-9b8b-e835b6ff5cb8" width="100" align="left" />
+<img src="https://github.com/user-attachments/assets/e31440d9-1516-40d7-a6ab-aae7ac1313ec" width="100" align="left" />
 
 # BaSeRPro - Batch Sequence Retrieval and Processing for GenBank
 
@@ -7,12 +7,12 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3c7ddb78-e904-4dd0-b6a2-c1e641e70578" width="750" />
+      <img src="https://github.com/user-attachments/assets/e1a6617a-72ff-4bad-b749-b408ac2d481f" width="750" />
       <br />
       <b>Retrieve + Align Sequences</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b57c1ae5-4d56-467f-864f-b67a339e90f5" width="750" />
+      <img src="https://github.com/user-attachments/assets/963c1dbb-7b45-4c44-a2f2-898cda6ee618" width="750" />
       <br />
       <b>Align Only (Own File)</b>
     </td>
